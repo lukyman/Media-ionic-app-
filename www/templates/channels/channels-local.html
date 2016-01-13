@@ -1,0 +1,69 @@
+<ion-view >
+<ion-nav-bar class="bar positive">
+      <ion-nav-back-button class="button-icon ion-arrow-left-c">
+      </ion-nav-back-button>
+    </ion-nav-bar>
+</ion-nav-bar >
+
+
+<ion-content class="has-header"  >
+
+<div ng-controller="streamCtrl">
+
+
+<div class="list card">
+
+	<div class="item item-stable">
+<div class="row">
+<div class="col ">
+	
+	<button  class="button button-small button-energized" ng-model="ktn" ng-init="value = 'ktn';" ng-click="submit(value)">
+<img src="img/ktn.png">
+	</button>
+
+
+</div>
+
+	
+<div class="col">
+<a class="button button-small button-clear "  ng-init="ntv = 'ntv';" ng-click="submit(ntv)">
+<img src="img/ntv.png" >
+	</a>
+</div>
+
+<div class="col">
+<a class="button button-small  button-clear"  ng-init="ctzn = 'ctzn';" ng-click="submit(ctzn)">
+<img src="img/citizen1.png">
+	</a>
+</div>
+</div>
+</div>
+<br>
+
+<div class="item item-outline item-stable">
+<div class="row">
+
+<div class="col ">
+		<a class="button button-small button-energized "  ng-init="k24 = 'k24';" ng-click="submit(k24)">
+			<img src="img/k24.jpg">
+		</a>
+                  
+
+</div>
+<div class="col">
+<a class="button button-small  button-clear" ng-init="kiss = 'kiss';" ng-click="submit(kiss)">
+<img src="img/kiss.jpg">
+	</a>
+</div>
+<div class="col">
+<a class="button button-small  button-clear"  ng-init="kass = 'kass';" ng-click="submit(kass)">
+<img src="img/kass.png">
+	</a>
+</div>
+</div>
+</div>
+</div>
+
+
+</ion-content>
+</ion-view>

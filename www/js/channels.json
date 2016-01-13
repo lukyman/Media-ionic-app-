@@ -1,0 +1,54 @@
+[
+{
+	"id":"ktn",
+	"title":"KTN LIVE",
+	"url":"http://www.ustream.tv/embed/18597323?v=3&amp;wmode=direct&amp;autoplay=true"
+},
+{
+	"id":"ntv",
+	"title":"NTV LIVE",
+	"url":"http://www.ustream.tv/embed/18069821?v=3&amp;wmode=direct&autoplay=true"
+},
+
+
+{
+	"id":"ctzn",
+	"title":"Citizen LIVE",
+	"url":"http://new.livestream.com/accounts/11365479/events/3710862/preview/live_player?width=320&amp;height=350&amp;auto_play=true&amp;mute=false"
+},
+{
+	"id":"k24",
+	"title":"K24 LIVE",
+	"url":"rtsp://mediamax.cs.netromedia.net/K24test/K24test"
+},
+{
+	"id":"kass",
+	"title":"KASS LIVE",
+	"url":"http://cdn.livestream.com/embed/kassmedia?layout=4&amp;"
+},
+{ 
+	"id":"",
+	"title":"",
+	"url":""
+},
+{
+	"id":"",
+	"title":"",
+	"url":""
+},
+{
+	"id":"",
+	"title":"",
+	"url":""
+},
+{
+	"id":"",
+	"title":"",
+	"url":""
+},{
+	"id":"",
+	"title":"",
+	"url":""
+}
+
+]
